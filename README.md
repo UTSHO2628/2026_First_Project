@@ -10,7 +10,7 @@ A fully offline, personal desktop application for tracking daily habits, product
 
 ## Features
 
-- **Daily Data Entry:** Track health, productivity, social media, and financial data for any given day.
+- **Daily Data Entry:** Track health, productivity, social media, and financial data for any given day..
 - **Date Selection:** A flexible date selector allows entering or viewing data for any past date.
 - **Local Data:** All data is stored locally in a `data/` directory, with one JSON file per year (e.g., `2024.json`).
 - **Data Persistence:** Your information is saved automatically and persists across application restarts.
