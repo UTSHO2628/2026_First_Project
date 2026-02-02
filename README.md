@@ -15,4 +15,4 @@ A fully offline, personal desktop application for tracking daily habits, product
 - **Local Data:** All data is stored locally in a `data/` directory, with one JSON file per year (e.g., `2024.json`).
 - **Data Persistence:** Your information is saved automatically and persists across application restarts.
 - **Analysis:** Simple views for monthly and yearly financial and habit summaries.
-- **Modern UI:** A beautiful, custom-styled dark-mode interface built purely with Tkinter..
+- **Modern UI:** A beautiful, custom-styled dark-mode interface built purely with Tkinter...
