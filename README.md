@@ -5,7 +5,7 @@ A fully offline, personal desktop application for tracking daily habits, product
 ## Tech Stack
 
 - **Language:** Python 3
-- **GUI:** Tkinter (`tkinter.ttk`)
+- **GUI:** Tkinter (`tkinter.ttk`) 
 - **Data Storage:** Local JSON files
 
 ## Features
