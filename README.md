@@ -1,4 +1,4 @@
-. # Habit & Finance Tracker.
+. # Habit & Finance Tracker..
 
 A fully offline, personal desktop application for tracking daily habits, productivity, and finances.
 
