@@ -11,7 +11,7 @@ DATA_DIR = "data"
 FONT_FAMILY = "Segoe UI" # A modern, clean font available on Windows
 
 # --- STYLING ---
-# Using a dark theme inspired by modern productivity apps.
+# Using a dark theme inspired by modern productivity apps..
 class StyleManager:
     """Manages the visual styling of the application."""
     COLOR_BACKGROUND = "#1e1e1e"
